@@ -11,6 +11,7 @@
     }
   ],
   "version": "1.x-dev",
+  "stability": "stable",
   "type": "terminus-plugin",
   "keywords": [
     "pantheon",
